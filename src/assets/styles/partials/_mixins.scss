@@ -1,0 +1,20 @@
+@mixin respond-to($handset) {
+    @if $handset == tablet {
+        @media only screen and (min-width: $medium-screen + 1) and (max-width: $large-screen - 1) {
+            @content;
+        }
+    } @else if $handset == desktop {
+        @media only screen and (min-width: $large-screen  + 1) {
+            @content;
+        }
+    } @else if $handset == onlyPhone {
+        @media only screen and (max-width: $medium-screens) {
+            @content;
+        }
+    }
+}
+
+@mixin responsive-ratio($x, $y, $percent: 100) {
+    $padding: unquote(($y / $x) * $percent + '%');
+    padding-top: $padding;
+}

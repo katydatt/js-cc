@@ -1,0 +1,30 @@
+<div class="wrapper-view">
+    <div class="container">
+        <div class="menu-wrapper">
+            <h1 class="heading -l"> Restaurant App</h1>
+            <div class="restaurant-intro">
+                <p>
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
+                    et
+                    dolore magna
+                    aliqua. Turpis egestas maecenas pharetra convallis posuere.
+                </p>
+                <p>
+                    Leo duis ut diam quam nulla porttitor massa id. Nulla at volutpat diam ut. Scelerisque varius morbi
+                    enim
+                    nunc. Lacus
+                    suspendisse faucibus interdum posuere lorem.
+                </p>
+            </div>
+            <div class="list-items">
+                {{#each items}}
+                {{> item item=this }}
+                {{/each}}
+            </div>
+        </div>
+        <div class="cart-wrapper">
+            {{> basket }}
+        </div>
+    </div>
+
+</div>

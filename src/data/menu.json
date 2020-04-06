@@ -1,0 +1,214 @@
+{
+    "items": [
+        {
+            "image": "",
+            "name": "Menu Item 1",
+            "price": 80,
+            "currency": "HK$",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean quis tortor ac metus tincidunt facilisis.",
+            "optionsRadio": [
+                {
+                    "value": "opt1",
+                    "description": "Option 1"
+                },
+                {
+                    "value": "opt2",
+                    "description": "Option 2"
+                },
+                {
+                    "value": "opt3",
+                    "description": "Option 3"
+                }
+            ],
+            "optionsCheck": [
+                {
+                    "value": "opt4",
+                    "description": "Option 4"
+                },
+                {
+                    "value": "opt5",
+                    "description": "Option 5"
+                },
+                {
+                    "value": "opt6",
+                    "description": "Option6"
+                }
+            ]
+        },
+        {
+            "image": "",
+            "name": "Menu Item 2",
+            "price": 100,
+            "currency": "HK$",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean quis tortor ac metus tincidunt facilisis.",
+            "optionsRadio": [
+                {
+                    "value": "opt1",
+                    "description": "Option 1"
+                },
+                {
+                    "value": "opt2",
+                    "description": "Option 2"
+                },
+                {
+                    "value": "opt3",
+                    "description": "Option 3"
+                }
+            ],
+            "optionsCheck": [
+                {
+                    "value": "opt4",
+                    "description": "Option 4"
+                },
+                {
+                    "value": "opt5",
+                    "description": "Option 5"
+                },
+                {
+                    "value": "opt6",
+                    "description": "Option6"
+                }
+            ]
+        },
+        {
+            "image": "",
+            "name": "Menu Item 3",
+            "price": 70,
+            "currency": "HK$",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean quis tortor ac metus tincidunt facilisis.",
+            "optionsRadio": [
+                {
+                    "value": "opt1",
+                    "description": "Option 1"
+                },
+                {
+                    "value": "opt2",
+                    "description": "Option 2"
+                },
+                {
+                    "value": "opt3",
+                    "description": "Option 3"
+                }
+            ],
+            "optionsCheck": [
+                {
+                    "value": "opt4",
+                    "description": "Option 4"
+                },
+                {
+                    "value": "opt5",
+                    "description": "Option 5"
+                },
+                {
+                    "value": "opt6",
+                    "description": "Option6"
+                }
+            ]
+        },
+        {
+            "image": "",
+            "name": "Menu Item 4",
+            "price": 200,
+            "currency": "HK$",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean quis tortor ac metus tincidunt facilisis.",
+            "optionsRadio": [
+                {
+                    "value": "opt1",
+                    "description": "Option 1"
+                },
+                {
+                    "value": "opt2",
+                    "description": "Option 2"
+                },
+                {
+                    "value": "opt3",
+                    "description": "Option 3"
+                }
+            ],
+            "optionsCheck": [
+                {
+                    "value": "opt4",
+                    "description": "Option 4"
+                },
+                {
+                    "value": "opt5",
+                    "description": "Option 5"
+                },
+                {
+                    "value": "opt6",
+                    "description": "Option6"
+                }
+            ]
+        },
+        {
+            "image": "",
+            "name": "Menu Item 5",
+            "price": 146,
+            "currency": "HK$",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean quis tortor ac metus tincidunt facilisis.",
+            "optionsRadio": [
+                {
+                    "value": "opt1",
+                    "description": "Option 1"
+                },
+                {
+                    "value": "opt2",
+                    "description": "Option 2"
+                },
+                {
+                    "value": "opt3",
+                    "description": "Option 3"
+                }
+            ],
+            "optionsCheck": [
+                {
+                    "value": "opt4",
+                    "description": "Option 4"
+                },
+                {
+                    "value": "opt5",
+                    "description": "Option 5"
+                },
+                {
+                    "value": "opt6",
+                    "description": "Option6"
+                }
+            ]
+        },
+        {
+            "image": "",
+            "name": "Menu Item 6",
+            "price": 80,
+            "currency": "HK$",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean quis tortor ac metus tincidunt facilisis.",
+            "optionsRadio": [
+                {
+                    "value": "opt1",
+                    "description": "Option 1"
+                },
+                {
+                    "value": "opt2",
+                    "description": "Option 2"
+                },
+                {
+                    "value": "opt3",
+                    "description": "Option 3"
+                }
+            ],
+            "optionsCheck": [
+                {
+                    "value": "opt4",
+                    "description": "Option 4"
+                },
+                {
+                    "value": "opt5",
+                    "description": "Option 5"
+                },
+                {
+                    "value": "opt6",
+                    "description": "Option6"
+                }
+            ]
+        }
+    ]
+}

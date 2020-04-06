@@ -1,0 +1,18 @@
+.list-items {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    .item-container {
+        margin: 0.5rem;
+        padding: 0.8rem;
+        width: calc((100% / 3) - 1rem);
+        background-color: $lighter-grey;
+        .item-image {
+            width: 100%;
+            border-radius: 5px;
+            background-color: $light-grey;
+            @include responsive-ratio(16, 9);
+        }
+    }
+}

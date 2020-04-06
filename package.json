@@ -1,0 +1,35 @@
+{
+    "name": "vanilla",
+    "version": "1.0.0",
+    "description": "handlebars application",
+    "main": "main.js",
+    "author": "Caterina Dattoma",
+    "license": "MIT",
+    "scripts": {
+        "dev": "webpack-dev-server --open --config webpack.dev.js",
+        "build": "webpack --config webpack.prod.js"
+    },
+    "dependencies": {},
+    "devDependencies": {
+        "@babel/core": "^7.9.0",
+        "@babel/preset-env": "^7.9.0",
+        "autoprefixer": "^9.7.5",
+        "babel-loader": "^8.1.0",
+        "clean-webpack-plugin": "^3.0.0",
+        "css-loader": "^3.4.2",
+        "file-loader": "^6.0.0",
+        "handlebars": "^4.7.3",
+        "handlebars-loader": "^1.7.1",
+        "html-webpack-plugin": "^4.0.3",
+        "image-webpack-loader": "^6.0.0",
+        "mini-css-extract-plugin": "^0.9.0",
+        "node-sass": "^4.13.1",
+        "postcss-loader": "^3.0.0",
+        "prettier": "^2.0.2",
+        "sass-loader": "^8.0.2",
+        "webpack": "^4.42.1",
+        "webpack-cli": "^3.3.11",
+        "webpack-dev-server": "^3.10.3",
+        "webpack-merge": "^4.2.2"
+    }
+}

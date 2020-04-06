@@ -1,0 +1,19 @@
+.cart-wrapper {
+    font-size: 12px;
+    width: $cart-width;
+    text-align: center;
+    .cart-container {
+        width: 100%;
+        padding: 0.8rem;
+        background-color: $lighter-grey;
+    }
+
+    .item-added {
+        margin-top: 0.5rem;
+    }
+
+    .button-container,
+    .total-cart {
+        margin-top: 2rem;
+    }
+}
